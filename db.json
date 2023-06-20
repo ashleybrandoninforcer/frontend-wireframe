@@ -1,0 +1,102 @@
+
+{
+    "Conditional Access Policies": [
+         {
+            "id": 1,
+            "displayName": "CA205 | Require Managed Device For Desktop Client Access",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+         {
+            "id": 2,
+            "displayName": "CA User MFA Policy",
+            "description": "Maiores fugiat in quisquam sit vero ducimus corrupti numquam incidunt quia."
+        }
+    ],
+    "Conditional Access Named Locations": [
+        {
+            "id": 3,
+            "displayName": "Allowed sign-in countries",
+            "description": "sed vitae animi similique error tenetur deleniti eveniet ab, sequi voluptatibus."
+        },
+        {
+            "id": 4,
+            "displayName": "Blocked sign-in countries",
+            "description": "necessitatibus exercitationem eaque veniam et quas! Neque iusto laboriosam vel?"
+        },
+        {
+            "id": 5,
+            "displayName": "ConnectWiseLocation",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+    ],
+    "Compliance Policies": [
+        {
+            "id": 6,
+            "displayName": "Compliance | Win | Basic Users",
+            "description": "Temporibus quas numquam error."
+        }
+    ],
+    "Configuration Profiles": [
+        {
+            "id": 7,
+            "displayName": "Config | Win | Intune Data Collection | Managed",
+            "description": "Temporibus quas numquam error."
+        },
+        {
+            "id": 8,
+            "displayName": "Config | Win | Main WiFi | Managed",
+            "description": "Temporibus quas numquam error."
+        },
+        {
+            "id": 9,
+            "displayName": "Config | Win | OneDrive Known Folder Move | Managed",
+            "description": "Temporibus quas numquam error."
+        },
+        {
+            "id": 10,
+            "displayName": "Config | Win | Sleep Settings | Managed",
+            "description": "Temporibus quas numquam error."
+        },
+        {
+            "id": 11,
+            "displayName": "Config | Win | Time Zone | Managed",
+            "description": "Temporibus quas numquam error."
+        }
+    ],
+    "App Protection Policies": [
+        {
+            "id": 12,
+            "displayName": "Android_App_Protection_Policy",
+            "description": "Temporibus quas numquam error."
+        },
+        {
+            "id": 13,
+            "displayName": "IOS_App_Protection_Policy",
+            "description": "Temporibus quas numquam error."
+        }
+    ],
+    "(End point Security) Antivirus": [
+        {
+            "id": 14,
+            "displayName": "AV Policy",
+            "description": "Temporibus quas numquam error."
+        }
+    ],
+    "Disk encryption": [
+        {
+            "id": 15,
+            "displayName": "Encryption | Win | Bitlocker | Managed",
+            "description": "Temporibus quas numquam error."
+        }
+    ],
+    "Firewall": [
+        {
+            "id": 15,
+            "displayName": "Firewall Policy",
+            "description": "Temporibus quas numquam error."
+        }
+    ]
+}
+
+
+
